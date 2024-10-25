@@ -1,15 +1,20 @@
-# ISI_25591
+# Trabalho Prático 1 de Integração de Sistemas de Informação
 
-Autor(a)
-Nome: Daniela Brito
-Número de Aluno: 25591
-Curso: Licenciatura em Engenharia de Sistemas Informáticos, 3º Ano
-Disciplina: Integração de Sistemas de Informação
-Docente: Professor Óscar Ribeiro
-Descrição do Projeto:
+##Autora
+### Nome: 
+Daniela Brito
+### Número de Aluno: 
+25591
+### Curso: 
+Licenciatura em Engenharia de Sistemas Informáticos, 3º Ano
+### Disciplina: 
+Integração de Sistemas de Informação
+### Docente: 
+Professor Óscar Ribeiro
+### Descrição do Projeto:
 Este projeto foi desenvolvido no âmbito da disciplina de Integração de Sistemas de Informação, focando-se na criação de um processo ETL (Extração, Transformação e Carga) com recurso ao Pentaho Kettle. O objetivo é migrar dados de um ficheiro CSV, transformá-los aplicando operações de normalização e exportá-los em dois formatos distintos: JSON e Excel.
 
-Objetivos do Trabalho:
+## Objetivos do Trabalho:
 Limpeza de dados: Correção de preços, validação de e-mails e remoção de entradas duplicadas.
 Normalização de preços para o formato correto (ex.: 59,50€).
 Conversão para JSON (para APIs e sistemas web) e Excel (para relatórios e análises empresariais).
