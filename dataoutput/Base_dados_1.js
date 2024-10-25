@@ -1,0 +1,1 @@
+{"data":[{"Descrição":"Cadeira gamer ergonómica","Fornecedor":"GamingStore","Preço":"159,99\u20AC","Email_Fornecedor":"vendas@gamingstore.com","Produto":"CadeiraGaming","Quantidade":12}]}

@@ -1,0 +1,1 @@
+{"data":[{"Descrição":"Teclado mecânico com retroiluminação RGB","Fornecedor":"TechTeam","Preço":"75,50\u20AC","Email_Fornecedor":"contacto@techteam.pt","Produto":"TecladoRGB","Quantidade":20}]}

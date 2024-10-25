@@ -1,0 +1,1 @@
+{"data":[{"Descrição":"Headset gamer com som surround 7.1","Fornecedor":"TechTeam","Preço":"89,00\u20AC","Email_Fornecedor":"suporte@techteam.pt","Produto":"HeadsetGamer","Quantidade":10}]}

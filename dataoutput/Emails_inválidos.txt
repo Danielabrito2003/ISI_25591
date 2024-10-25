@@ -1,0 +1,2 @@
+Email_Fornecedor;Fornecedor
+vendas@@gamingstore.com      ;GamingStore       

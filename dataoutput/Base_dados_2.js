@@ -1,0 +1,1 @@
+{"data":[{"Descrição":"Computador portátil 15'' i7","Fornecedor":"GamingStore","Preço":"999,00\u20AC","Email_Fornecedor":"vendas@gamingstore.com","Produto":"ComputadorPortatil","Quantidade":3}]}
