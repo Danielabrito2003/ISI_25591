@@ -1,13 +1,13 @@
-# Trabalho Prático 1 de Integração de Sistemas de Informação
+# [ISI] Trabalho Prático 1
 
-## Autora
+## Autor
 ### Nome: 
 Daniela Brito
 ### Número de Aluno: 
 25591
 ### Curso: 
 Licenciatura em Engenharia de Sistemas Informáticos, 3º Ano
-### Disciplina: 
+### U.C.: 
 Integração de Sistemas de Informação
 ### Docente: 
 Professor Óscar Ribeiro
@@ -19,6 +19,7 @@ Limpeza de dados: Correção de preços, validação de e-mails e remoção de e
 Normalização de preços para o formato correto (ex.: 59,50€).
 Conversão para JSON (para APIs e sistemas web) e Excel (para relatórios e análises empresariais).
 
+## Estrutura de Pastas e Ficheiros
 ```
 tp01-25591/
 ├── README.md
