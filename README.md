@@ -19,6 +19,7 @@ Limpeza de dados: Correção de preços, validação de e-mails e remoção de e
 Normalização de preços para o formato correto (ex.: 59,50€).
 Conversão para JSON (para APIs e sistemas web) e Excel (para relatórios e análises empresariais).
 
+```
 tp01-25591/
 ├── README.md
 ├── doc/
@@ -34,15 +35,16 @@ tp01-25591/
 │       └── Base_dados.xlsx
 └── src/
     └── N/A
+```
 
 
-[Instruções para Execução]
+## Instruções para Execução
 
-Ferramentas Necessárias:
-Pentaho Data Integration (Kettle): Ferramenta ETL utilizada para a criação e execução das transformações e jobs.
-Python 3: Para executar scripts adicionais de apoio, se necessário.
+### Ferramentas Necessárias:
+ - Pentaho Data Integration (Kettle): Ferramenta ETL utilizada para a criação e execução das transformações e jobs.
+ - Python 3: Para executar scripts adicionais de apoio, se necessário.
 
-Passos para Executar o ETL:
+### Passos para Executar o ETL:
  - Abrir o Pentaho Data Integration (Kettle).
  - Abrir Job ETL. Abrir a pasta dataint/ e abrir o ficheiro TP01_25591.ktr.
  - Executar o job para processar os ficheiros de entrada e gerar os dados de saída.
