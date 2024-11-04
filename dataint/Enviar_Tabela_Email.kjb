@@ -293,7 +293,7 @@
       <attributes/>
       <server>smtp.office365.com</server>
       <port>587</port>
-      <destination>cacarvalho@ipca.pt</destination>
+      <destination>a25591@alunos.ipca.pt</destination>
       <destinationCc/>
       <destinationBCc/>
       <replyto>a25591@alunos.ipca.pt</replyto>
