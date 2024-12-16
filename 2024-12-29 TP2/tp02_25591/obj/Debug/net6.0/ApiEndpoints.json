@@ -1,0 +1,221 @@
+[
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ExerciciosController",
+    "Method": "GetExercicios",
+    "RelativePath": "api/Exercicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestaoReceitasExercicios.Controllers.ExerciciosController\u002BExercicio, GestaoReceitasExercicios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ExerciciosController",
+    "Method": "AddExercicio",
+    "RelativePath": "api/Exercicios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoExercicio",
+        "Type": "GestaoReceitasExercicios.Controllers.ExerciciosController\u002BExercicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ExerciciosController",
+    "Method": "GetExercicio",
+    "RelativePath": "api/Exercicios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GestaoReceitasExercicios.Controllers.ExerciciosController\u002BExercicio",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ExerciciosController",
+    "Method": "UpdateExercicio",
+    "RelativePath": "api/Exercicios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "exercicioAtualizado",
+        "Type": "GestaoReceitasExercicios.Controllers.ExerciciosController\u002BExercicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ExerciciosController",
+    "Method": "DeleteExercicio",
+    "RelativePath": "api/Exercicios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ReceitasController",
+    "Method": "GetReceitas",
+    "RelativePath": "api/Receitas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestaoReceitasExercicios.Controllers.ReceitasController\u002BReceita, GestaoReceitasExercicios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ReceitasController",
+    "Method": "AddReceita",
+    "RelativePath": "api/Receitas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novaReceita",
+        "Type": "GestaoReceitasExercicios.Controllers.ReceitasController\u002BReceita",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ReceitasController",
+    "Method": "GetReceita",
+    "RelativePath": "api/Receitas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GestaoReceitasExercicios.Controllers.ReceitasController\u002BReceita",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ReceitasController",
+    "Method": "UpdateReceita",
+    "RelativePath": "api/Receitas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "receitaAtualizada",
+        "Type": "GestaoReceitasExercicios.Controllers.ReceitasController\u002BReceita",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.ReceitasController",
+    "Method": "DeleteReceita",
+    "RelativePath": "api/Receitas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestaoReceitasExercicios.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestaoReceitasExercicios.WeatherForecast, GestaoReceitasExercicios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,5 @@
+ O trabalho deverá ser entregue até ao dia 29 de dezembro, sugerindo-se as seguintes
+ entregas:
+ ◦ definição Tema e Grupo – 02/dez - constituição do grupo e descrição do problema 
+◦ 1ª entrega – 15/dez - arquitetura prevista para a solução e código desenvolvido
+ ◦ 3ª entrega – 29/dez - entrega final do código e relatório 

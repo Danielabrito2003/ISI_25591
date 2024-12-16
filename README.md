@@ -1,52 +1,66 @@
-# [ISI] Trabalho Prático 1
+
+# [ISI] Trabalhos Práticos
 
 ## Autor
-### Nome: 
-Daniela Brito
-### Número de Aluno: 
-25591
-### Curso: 
-Licenciatura em Engenharia de Sistemas Informáticos, 3º Ano
-### U.C.: 
-Integração de Sistemas de Informação
-### Docente: 
-Professor Óscar Ribeiro
-### Descrição do Projeto:
-Este projeto foi desenvolvido no âmbito da disciplina de Integração de Sistemas de Informação, focando-se na criação de um processo ETL (Extração, Transformação e Carga) com recurso ao Pentaho Kettle. O objetivo é migrar dados de um ficheiro CSV, transformá-los aplicando operações de normalização e exportá-los em dois formatos distintos: JSON e Excel.
+**Nome:** Daniela Brito  
+**Número de Aluno:** 25591  
+**Curso:** Licenciatura em Engenharia de Sistemas Informáticos, 3º Ano  
+**U.C.:** Integração de Sistemas de Informação  
+**Docente:** Professor Óscar Ribeiro  
+**Ano:** 2024/2025  
 
-## Objetivos do Trabalho:
-Limpeza de dados: Correção de preços, validação de e-mails e remoção de entradas duplicadas.
-Normalização de preços para o formato correto (ex.: 59,50€).
-Conversão para JSON (para APIs e sistemas web) e Excel (para relatórios e análises empresariais).
+---
+
+## Descrição deste Repositório
+Este repositório contém os trabalhos práticos desenvolvidos no âmbito da unidade curricular de Integração de Sistemas de Informação. O foco principal é a exploração de processos ETL (Extração, Transformação e Carga) e a criação de APIs para interoperabilidade entre sistemas, utilizando serviços web. Cada trabalho apresenta uma abordagem prática para aplicar conceitos teóricos aprendidos na aula, usando ferramentas como o Pentaho Kettle, Node-RED, e linguagens modernas.
 
 ## Estrutura de Pastas e Ficheiros
 ```
-tp01-25591/
-├── README.md
-├── doc/
-│   └── relatorio_25591.pdf
-├── dataint/
-│   ├── TP01_25591.ktr
-│   └── Enviar_Tabela_Email.kjb
-├── data/
-│   ├── input/
-│   │   └── Base_dados.csv
-│   └── output/
-│       ├── Base_dados.json
-│       └── Base_dados.xlsx
-└── src/
-    └── N/A
+isi-trabalhos/
+├── TP1/                    # Trabalho Prático 1 - Processos ETL
+│   ├── README.md           # Detalhes do projeto
+│   ├── doc/                # Relatório e documentação
+│   │   └── relatorio_TP1.pdf
+│   ├── data/               # Dados utilizados no processo ETL
+│   │   ├── input/          # Dados de entrada (ex.: CSV)
+│   │   └── output/         # Dados transformados (ex.: JSON, Excel)
+│   ├── dataint/            # Ficheiros Pentaho (jobs e transformações)
+│   └── src/                # Scripts de apoio, se aplicável
+│
+├── TP2/                    # Trabalho Prático 2 - Serviços Web e APIs
+│   ├── README.md           # Detalhes do projeto
+│   ├── doc/                # Relatório e documentação
+│   │   └── relatorio_TP2.pdf
+│   ├── api/                # Código da API desenvolvida
+│   ├── tests/              # Scripts de testes da API
+│   └── client/             # Aplicação cliente para testar a API
+│
+└── README.md               # Documento principal do repositório
 ```
 
+## Trabalhos Incluídos
 
-## Instruções para Execução
+### **Trabalho Prático 1 - Processos ETL**
+- **Descrição:** Desenvolvimento de processos ETL usando Pentaho Kettle para extração, transformação e carregamento de dados de ficheiros CSV, com saída em formatos JSON e Excel.
+- **Objetivos:**
+  - Limpeza e validação de dados.
+  - Normalização de valores.
+  - Exportação para formatos variados.
+- **Foco nas Ferramentas:** Pentaho Kettle, Node-RED, Expressões Regulares.
 
-### Ferramentas Necessárias:
- - Pentaho Data Integration (Kettle): Ferramenta ETL utilizada para a criação e execução das transformações e jobs.
- - Python 3: Para executar scripts adicionais de apoio, se necessário.
+### **Trabalho Prático 2 - Serviços Web e APIs**
+- **Descrição:** Criação de serviços RESTful e, opcionalmente, SOAP para suportar operações CRUD e demonstrar a integração entre sistemas através de APIs.
+- **Objetivos:**
+  - Desenvolver serviços para interoperabilidade.
+  - Implementar segurança (tokens OAuth).
+  - Documentar a API usando Swagger/OpenAPI.
+- **Foco nas Ferramentas:** Node.js, Postman, ou plataformas PaaS (Azure, AppHarbor).
 
-### Passos para Executar o ETL:
- - Abrir o Pentaho Data Integration (Kettle).
- - Abrir Job ETL. Abrir a pasta dataint/ e abrir o ficheiro TP01_25591.ktr.
- - Executar o job para processar os ficheiros de entrada e gerar os dados de saída.
- - Verificar o Resultado. Os ficheiros de saída serão guardados na pasta dataoutput/.
+---
+
+## Instruções para Uso
+1. **Navegar nas Pastas:** Cada trabalho está isolado numa pasta com o seu respetivo `README.md`, que contém detalhes sobre o projeto e instruções específicas.
+2. **Ferramentas Necessárias:** Certifica-te de que tens as ferramentas necessárias instaladas, como Pentaho Kettle, Node.js, ou outras especificadas nos projetos.
+3. **Executar os Trabalhos:** Segue as instruções de cada trabalho individual para a execução dos ficheiros ou testes.
+
+---

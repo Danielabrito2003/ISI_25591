@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:authenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\models\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:models\\receita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\models\\exercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:models\\exercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\migrations\\20241207200843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:migrations\\20241207200843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\controllers\\receitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:controllers\\receitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\controllers\\exercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:controllers\\exercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|c:\\users\\danie\\ipca\\3 ano\\1\u00BA semestre\\integra\u00E7\u00E3o de sistemas de informa\u00E7\u00E3o\\00 avalia\u00E7\u00E3o\\2024-12-29 tp2\\gestaoreceitasexercicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D746D1B6-EE03-42B4-BC5D-7D1B698D0FA0}|GestaoReceitasExercicios.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:36.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:36.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\AuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "AuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\AuthenticationMiddleware.cs",
+              "RelativeToolTip": "AuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Receita.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Models\\Receita.cs",
+              "RelativeDocumentMoniker": "Models\\Receita.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Models\\Receita.cs",
+              "RelativeToolTip": "Models\\Receita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Models\\Exercicio.cs",
+              "RelativeDocumentMoniker": "Models\\Exercicio.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Models\\Exercicio.cs",
+              "RelativeToolTip": "Models\\Exercicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241207200843_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Migrations\\20241207200843_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241207200843_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Migrations\\20241207200843_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241207200843_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:30.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:28.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:27.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReceitasController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Controllers\\ReceitasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReceitasController.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Controllers\\ReceitasController.cs",
+              "RelativeToolTip": "Controllers\\ReceitasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:32:26.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T13:00:54.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExerciciosController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Controllers\\ExerciciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExerciciosController.cs",
+              "ToolTip": "C:\\Users\\danie\\IPCA\\3 ANO\\1\u00BA Semestre\\Integra\u00E7\u00E3o de Sistemas de Informa\u00E7\u00E3o\\00 Avalia\u00E7\u00E3o\\2024-12-29 TP2\\GestaoReceitasExercicios\\Controllers\\ExerciciosController.cs",
+              "RelativeToolTip": "Controllers\\ExerciciosController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:28:53.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

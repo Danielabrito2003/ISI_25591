@@ -1,0 +1,47 @@
+# Ficheiros do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ficheiros temporários e logs
+*.log
+*.tmp
+
+# Configurações locais de IDEs/editores
+.idea/
+.vscode/
+*.iml
+
+# Ficheiros de compilação e binários
+*.class
+*.jar
+*.pyc
+*.o
+*.out
+
+# Build e diretórios temporários
+build/
+dist/
+target/
+*.war
+*.ear
+
+# Configurações e dados sensíveis
+*.env
+.env.local
+*.bak
+*.swp
+credentials.json
+authToken.json
+
+# Ficheiros de execução de ETL (ex.: Pentaho, Node-RED)
+*.kjb
+*.ktr
+*.nodered/
+
+# Documentos de output
+*.docx
+*.xlsx
+
+# Diretórios de dependências
+node_modules/
+__pycache__/
