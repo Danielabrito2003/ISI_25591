@@ -1,0 +1,4 @@
+Produto;Preço Corrigido
+LâmpadaLED        ;19,9€
+MesaGamer         ;220€
+Monitor4K         ;399,99
